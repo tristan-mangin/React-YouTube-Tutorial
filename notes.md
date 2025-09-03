@@ -4,3 +4,6 @@
 - Continuously updates DOM elements
 
 Think of a tree of components
+
+# Useful Sites #
+babeljs.io/repl --> Shows how JSX is compiled to JS
